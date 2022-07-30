@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://saryn.cn/">Hey, I'm Saryn!</a>
+  [Hey, I'm Saryn!](https://saryn.cn/)
 </h1>
 
 <div align="center">
