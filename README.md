@@ -13,9 +13,6 @@
 <div align="center">
   <a href="https://saryn.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://space.bilibili.com/47217571/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Saryn-Code" alt="访客统计" /></div>
-
 
 💪 正在学习: 
 
@@ -68,8 +65,11 @@
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-## 🌠 Coding Time
-> the projects I'm working on
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Saryn-Code&theme=calm&show_icons=true" />
-</div>  
+# 🚀 Actions
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saryn-Code&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
