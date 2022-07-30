@@ -17,4 +17,6 @@
 </div>  
 
 ## 🏆 Github Profile Trophy
+<div>
 <img src="https://github-profile-trophy.vercel.app/?username=Saryn-Code&column=8"/>
+</div>  
