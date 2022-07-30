@@ -83,7 +83,7 @@
 <br>
 
 <!-- 最近博客动态 -->
-<table align="center">
+<table align="left">
 <tr>
 <td valign="top">    
 
