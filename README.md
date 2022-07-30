@@ -101,17 +101,7 @@
 </table>
   
   
-### wakatime 统计
-<table align="center">
-<tr>
-<td valign="top">   
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+## I'm an Early 🐤
 
 ```text
 🌞 Morning    257 commits    ██████████░░░░░░░░░░░░░░░   40.41% 
@@ -120,9 +110,9 @@
 🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95%
 
 ```
+<br>
   
-  
-📅 **I'm Most Productive on Friday** 
+## 📅 I'm Most Productive on Friday
 
 ```text
 Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
@@ -135,8 +125,3 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
-  
