@@ -15,8 +15,3 @@
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Saryn-Code&theme=calm&show_icons=true" />
 </div>  
-
-## 🏆 Github Profile Trophy
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=Saryn-Code&column=8"/>
-</div>  
