@@ -14,7 +14,7 @@
 > the projects I'm working on
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Saryn-Code&theme=calm&show_icons=true" />
-</div>
+</div>  
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=Saryn-Code&column=8"/>
