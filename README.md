@@ -96,6 +96,15 @@
 * <a href='https://saryn.cn/' target='_blank'>待补充！</a> - 2021-12-31
 <!-- END_SECTION:blog -->
   
+</td>
+</tr>
+</table>
+  
+  
+  
+<table align="center">
+<tr>
+<td valign="top">   
 <!-- wakatime 统计 -->
 <table align="center">
 <tr>
@@ -124,26 +133,8 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 29/07/2022 02:21:43 UTC
 <!--END_SECTION:waka-->
 </td>
 </tr>
 </table>
+  
