@@ -84,7 +84,7 @@
 
 ### 🤹‍♀️ <a href="https://saryn.cn/" target="_blank">Saryn Blog</a>
 <!-- 最近博客动态 -->
-<table align="left">
+<table align="center">
 <tr>
 <td valign="top">    
 
